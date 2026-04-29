@@ -117,7 +117,7 @@ body {
   place-items: center;
   cursor: pointer;
   padding: 0;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 .carousel-block[data-theme="light"] .ep-carousel__nav {
